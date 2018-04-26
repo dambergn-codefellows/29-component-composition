@@ -1,4 +1,4 @@
-# ![CF](http://i.imgur.com/7v5ASc8.png) 29 Todo
+# ![CF](http://i.imgur.com/7v5ASc8.png) 29 Component Composition in Todo List
 
 ## Submission Instructions
 * continue working from lab 28
